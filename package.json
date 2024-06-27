@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/starhax4/Number-guessing-game/issues"
   },
-  "homepage": "https://github.com/starhax4/Number-guessing-game#readme"
+  "homepage": "https://github.com/starhax4/Number-guessing-game#readme",
+  "dependencies": {
+    "inquirer": "^9.3.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
 }
