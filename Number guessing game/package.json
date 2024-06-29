@@ -1,0 +1,33 @@
+{
+  "name": "number-guess-123",
+  "version": "1.2.1",
+  "description": "a simple number guessing game",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starhax4/Number-guessing-game.git"
+  },
+  "keywords": [
+    "piaic",
+    "cli"
+  ],
+  "author": "Hamza Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starhax4/Number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/starhax4/Number-guessing-game#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
